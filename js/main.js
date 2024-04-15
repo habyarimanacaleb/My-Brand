@@ -32,7 +32,7 @@ closeButon.onclick = () => {
 }
 
 document.getElementById("back").onclick = () => {
-    window.location.href = '/html/index.html';
+    window.location.href = '/index.html';
 };
 
 // navigation menu responsiveness by toggle button
